@@ -4,12 +4,24 @@ import java.sql.Timestamp;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 import org.hibernate.annotations.CreationTimestamp;
 
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
 @Entity // User 클래스가 MySQL에 테이블이 생성이 된다.
 public class User {
 
@@ -25,6 +37,10 @@ public class User {
 	
 	@Column(nullable = false, length=50)
 	private String email; // 유저 이메일
+	
+//	@ColumnDefault("user")
+	@Enumerated(EnumType.STRING)
+	private RoleType role; // ADMIN , USER
 	
 	@CreationTimestamp//시간이 자동 입력
 	private Timestamp createDate;
