@@ -43,7 +43,8 @@ __6. 로그인 진행__<br><br>![image](https://user-images.githubusercontent.co
 AuthenticationManager 를 이용하여 로그인 진행<br><br>
 <hr>
 __7. 실행 화면__<br><br>
-로그인전<br>![image](https://user-images.githubusercontent.com/100080583/159950046-ec6eb83e-8f65-48b5-a7b5-41111a2c0f5f.png)
+로그인전<br>
+![image](https://user-images.githubusercontent.com/100080583/159950046-ec6eb83e-8f65-48b5-a7b5-41111a2c0f5f.png)
 <br><br>
 로그인후<br><br>
 
