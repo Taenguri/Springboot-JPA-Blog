@@ -28,12 +28,12 @@ BCryptPasswordEncoder 를 이용한 암호화 처리
 ## 기술 설명 (Oauth를 이용한 카카오 로그인)
 <br>
 
-__1. Kakao developers 에서 REST API키 발급__<br>
-__2. Kakao 로그인 환결설정 ( Redirect URI, Logout Redirect URI, 동의항목 설정 등)__<br>
-__3. 카카오 로그인 엑세스 토큰 받기__<br>
-__4. 토큰을 통한 사용자 정보 조회__<br>
-__5. 비가입자,가입자 여부 판단__<br>![image](https://user-images.githubusercontent.com/100080583/159940086-6fba3500-2d96-461a-9d50-385f5bf564d6.png)<br>
-입력받은 카카오정보를 데이터베이스와 비교해서 회원가입하지 않은 사용자는 자동회원가입 처리를해준다.<br>
-__6. 로그인 진행__<br>![image](https://user-images.githubusercontent.com/100080583/159940678-cdf213bd-5e32-4fd4-b504-8852210eb83b.png)<br>
+__1. Kakao developers 에서 REST API키 발급__<br><br>
+__2. Kakao 로그인 환결설정 ( Redirect URI, Logout Redirect URI, 동의항목 설정 등)__<br><br>
+__3. 카카오 로그인 엑세스 토큰 받기__<br><br>
+__4. 토큰을 통한 사용자 정보 조회__<br><br>
+__5. 비가입자,가입자 여부 판단__<br><br>![image](https://user-images.githubusercontent.com/100080583/159940086-6fba3500-2d96-461a-9d50-385f5bf564d6.png)<br><br>
+입력받은 카카오정보를 데이터베이스와 비교해서 회원가입하지 않은 사용자는 자동회원가입 처리를해준다.<br><br>
+__6. 로그인 진행__<br>![image](https://user-images.githubusercontent.com/100080583/159940678-cdf213bd-5e32-4fd4-b504-8852210eb83b.png)<br><br>
 
 
