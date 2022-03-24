@@ -36,5 +36,5 @@ __5. 비가입자,가입자 여부 판단__<br><br>![image](https://user-images.
 입력받은 카카오정보를 데이터베이스와 비교해서 회원가입하지 않은 사용자는 자동회원가입 처리를해준다.<br><br>
 __6. 로그인 진행__<br><br>![image](https://user-images.githubusercontent.com/100080583/159940678-cdf213bd-5e32-4fd4-b504-8852210eb83b.png)<br><br>
 AuthenticationManager 를 이용하여 로그인 진행<br><br>
-
+<hr>
 
