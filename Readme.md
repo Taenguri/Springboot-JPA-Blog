@@ -17,7 +17,7 @@ __핵심 기술__<br>
 ## 기술설명 (Spring Security 를 이용한 암호화 로그인)
 <br><br>
 
-![image](https://user-images.githubusercontent.com/100080583/159926265-4895e297-142c-462c-b2f7-5e2a3289c9b8.png)
+![image](https://user-images.githubusercontent.com/100080583/159926265-4895e297-142c-462c-b2f7-5e2a3289c9b8.png)<br>
 &nbsp;&downarrow;
 <br><hr>
 
