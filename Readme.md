@@ -30,11 +30,10 @@ BCryptPasswordEncoder 를 이용한 암호화 처리
 
 __1. Kakao developers 에서 REST API키 발급__<br><br>![image](https://user-images.githubusercontent.com/100080583/159942809-460e6b45-3f3a-41ce-9d1b-1b226e42fa1b.png)
 <br><br>
-
-__2. Kakao 로그인 환결설정 ( Redirect URI, 동의항목 설정 등)__<br><br>
-__3. 카카오 로그인 엑세스 토큰 받기__<br><br>![image](https://user-images.githubusercontent.com/100080583/159943092-bfa439bd-47c8-42a3-bef8-3921901fb791.png)
+__2. Kakao 로그인 환결설정 ( Redirect URI, 동의항목 설정 등)__<br><br>![image](https://user-images.githubusercontent.com/100080583/159943092-bfa439bd-47c8-42a3-bef8-3921901fb791.png)<br><br>
 <br><br>![image](https://user-images.githubusercontent.com/100080583/159943189-ee5701f6-1ac4-46fa-85a4-4f0dddcec3e4.png)
 <br><br>
+__3. 카카오 로그인 엑세스 토큰 받기__<br><br>
 __4. 토큰을 통한 사용자 정보 조회__<br><br>
 __5. 비가입자,가입자 여부 판단__<br><br>![image](https://user-images.githubusercontent.com/100080583/159940086-6fba3500-2d96-461a-9d50-385f5bf564d6.png)<br><br>
 입력받은 카카오정보를 데이터베이스와 비교해서 회원가입하지 않은 사용자는 자동회원가입 처리를해준다.<br><br>
