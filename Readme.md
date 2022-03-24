@@ -33,8 +33,7 @@ BCryptPasswordEncoder 를 이용한 암호화 처리
     <li>카카오 로그인 엑세스 토큰 받기</li>
     <li>토큰을 통한 사용자 정보 조회 </li>
     <li>비가입자 여부 판단후 회원가입 진행 </li>
-   ![image](https://user-images.githubusercontent.com/100080583/159935474-8f78d936-4511-40b2-a2ac-b737da2dbfab.png)<br>
-
+![image](https://user-images.githubusercontent.com/100080583/159935474-8f78d936-4511-40b2-a2ac-b737da2dbfab.png)<br>
     <li></li>
     <li></li>
     <li></li>
