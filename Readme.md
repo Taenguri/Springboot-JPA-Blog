@@ -15,8 +15,8 @@ __핵심 기술__<br>
 
 <br><hr>
 ## 기술설명 (RestController 를 이용한 CRUD)
-![image](https://user-images.githubusercontent.com/100080583/159927969-f087532e-ef8f-4229-afbc-e34b3aa18c4b.png) <br><hr>
-CRUD 요청을 RestController 를 이용하여 비동기방식으로 처리했다.
+![image](https://user-images.githubusercontent.com/100080583/159927969-f087532e-ef8f-4229-afbc-e34b3aa18c4b.png) <br>
+CRUD 요청을 RestController 를 이용하여 비동기방식으로 처리했다.<br><hr>
 
 
 ## 기술설명 (Spring Security 를 이용한 암호화 로그인)
