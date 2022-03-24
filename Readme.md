@@ -15,7 +15,7 @@ __핵심 기술__<br>
 
 <br><hr>
 ## 기술설명 (RestController 를 이용한 CRUD)
-![image](https://user-images.githubusercontent.com/100080583/159927969-f087532e-ef8f-4229-afbc-e34b3aa18c4b.png) <br>
+![image](https://user-images.githubusercontent.com/100080583/159927969-f087532e-ef8f-4229-afbc-e34b3aa18c4b.png) <br><br><br>
 CRUD 요청을 RestController 를 이용하여 비동기방식으로 처리했다.<br><hr>
 
 
