@@ -40,8 +40,7 @@ __4. 토큰을 통한 사용자 정보 요청__<br><br>![image](https://user-ima
 __5. 비가입자,가입자 여부 판단__<br><br>![image](https://user-images.githubusercontent.com/100080583/159940086-6fba3500-2d96-461a-9d50-385f5bf564d6.png)<br><br>
 입력받은 카카오정보를 데이터베이스와 비교해서 회원가입하지 않은 사용자는 자동회원가입 처리를해준다.<br><br>
 __6. 로그인 진행__<br><br>![image](https://user-images.githubusercontent.com/100080583/159940678-cdf213bd-5e32-4fd4-b504-8852210eb83b.png)<br><br>
-AuthenticationManager 를 이용하여 로그인 진행<br><br>
-<hr>
+AuthenticationManager 를 이용하여 로그인 진행<br><br><hr>
 __7. 실행 화면__<br><br>
 <span>로그인전</span><br>
 ![image](https://user-images.githubusercontent.com/100080583/159950046-ec6eb83e-8f65-48b5-a7b5-41111a2c0f5f.png)
