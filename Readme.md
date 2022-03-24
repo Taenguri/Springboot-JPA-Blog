@@ -28,8 +28,8 @@ BCryptPasswordEncoder 를 이용한 암호화 처리
 ## 기술 설명 (Oauth를 이용한 카카오 로그인)
 <br>
 
-__1. Kakao developers 에서 REST API키 발급__<br><br>
-![image](https://user-images.githubusercontent.com/100080583/159942427-00b54b20-82a2-4f04-b9ec-b69ca77868e4.png)<br><br>
+__1. Kakao developers 에서 REST API키 발급__<br><br>![image](https://user-images.githubusercontent.com/100080583/159942809-460e6b45-3f3a-41ce-9d1b-1b226e42fa1b.png)
+<br><br>
 
 __2. Kakao 로그인 환결설정 ( Redirect URI, Logout Redirect URI, 동의항목 설정 등)__<br><br>
 __3. 카카오 로그인 엑세스 토큰 받기__<br><br>
