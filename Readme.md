@@ -17,7 +17,6 @@ __핵심 기술__<br>
 ## 기술설명 (Spring Security 를 이용한 암호화 로그인)
 <br><br>
 ![image](https://user-images.githubusercontent.com/100080583/159927226-22b9e7a8-542b-47ba-8c9b-e30de2e8551e.png)<br><br><br>
-&downarrow;
 ![image](https://user-images.githubusercontent.com/100080583/159926963-786e7f8c-a942-480d-a3cf-0d5a167fa9f6.png))<br>
 BCryptPasswordEncoder 를 이용한 암호화 처리
 <br><hr>
