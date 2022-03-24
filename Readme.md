@@ -25,7 +25,6 @@ CRUD 요청을 RestController 를 이용하여 비동기방식으로 처리<br><
 ![image](https://user-images.githubusercontent.com/100080583/159926963-786e7f8c-a942-480d-a3cf-0d5a167fa9f6.png))<br><br><br>
 BCryptPasswordEncoder 를 이용한 암호화 처리
 <br><hr>
-
-<br><br>
+<br>
 ## 기술설명 (카카오 로그인)
 
