@@ -11,6 +11,7 @@ __핵심 기술__<br>
    <li>RestController 를 이용한 CRUD</li>
    <li>Spring Security 를 이용한 암호화</li>
    <li>Oauth를 이용한 카카오 로그인</li> 
+   <li>Pageable 를 이용한 페이징처리</li>
 </ul>
 
 <br><hr>
