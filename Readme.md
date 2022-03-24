@@ -35,7 +35,7 @@ __2. Kakao 로그인 환결설정 ( Redirect URI, 동의항목 설정 등)__<br>
 __3. 카카오 로그인 엑세스 토큰 요청__<br><br>
 ![image](https://user-images.githubusercontent.com/100080583/159945473-f57d2f6d-d7d0-4a49-8f60-0cc376990da2.png)<br><br>
 
-__4. 토큰을 통한 사용자 정보 요청__<br><br>![image](https://user-images.githubusercontent.com/100080583/159946326-562faa0e-dc7d-49f8-a695-012224b29ca9.png)<br><br>
+__4. 토큰을 통한 사용자 정보 요청__<br><br>![image](https://user-images.githubusercontent.com/100080583/159946822-9ef2584f-8d72-4593-b221-1e4fadb32831.png)<br><br>
 
 __5. 비가입자,가입자 여부 판단__<br><br>![image](https://user-images.githubusercontent.com/100080583/159940086-6fba3500-2d96-461a-9d50-385f5bf564d6.png)<br><br>
 입력받은 카카오정보를 데이터베이스와 비교해서 회원가입하지 않은 사용자는 자동회원가입 처리를해준다.<br><br>
