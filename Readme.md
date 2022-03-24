@@ -14,16 +14,16 @@ __핵심 기술__<br>
 </ul>
 
 <br><hr>
-## 기술설명 (RestController 를 이용한 CRUD)
+## 기술 설명 (RestController 를 이용한 CRUD)
 ![image](https://user-images.githubusercontent.com/100080583/159927969-f087532e-ef8f-4229-afbc-e34b3aa18c4b.png) <br><br><br>
 CRUD 요청을 RestController 를 이용하여 비동기방식으로 처리<br><hr>
 
 
-## 기술설명 (Spring Security 를 이용한 암호화 로그인)
+## 기술 설명 (Spring Security 를 이용한 암호화 로그인)
 <br><br>
 ![image](https://user-images.githubusercontent.com/100080583/159927226-22b9e7a8-542b-47ba-8c9b-e30de2e8551e.png)<br><br><br>
 ![image](https://user-images.githubusercontent.com/100080583/159926963-786e7f8c-a942-480d-a3cf-0d5a167fa9f6.png))<br><br><br>
 BCryptPasswordEncoder 를 이용한 암호화 처리
 <br><hr>
-## 기술설명 (카카오 로그인)
+## 기술 설명 (Oauth를 이용한 카카오 로그인)
 
