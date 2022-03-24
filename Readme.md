@@ -42,4 +42,8 @@ __5. 비가입자,가입자 여부 판단__<br><br>![image](https://user-images.
 __6. 로그인 진행__<br><br>![image](https://user-images.githubusercontent.com/100080583/159940678-cdf213bd-5e32-4fd4-b504-8852210eb83b.png)<br><br>
 AuthenticationManager 를 이용하여 로그인 진행<br><br>
 <hr>
+__7. 실행 화면__<br><br>
+로그인전
+![image](https://user-images.githubusercontent.com/100080583/159948412-6b219857-d538-4f88-b7e4-719b0099249b.png)<br><br>
+로그인후<br><br>
 
