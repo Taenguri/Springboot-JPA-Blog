@@ -18,9 +18,9 @@ __핵심 기술__<br>
 <br><br>
 
 ![image](https://user-images.githubusercontent.com/100080583/159926265-4895e297-142c-462c-b2f7-5e2a3289c9b8.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&downarrow;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&downarrow;
 <br><hr>
 
-
+<br><br>
 ## 기술설명 (카카오 로그인)
 
