@@ -32,7 +32,7 @@ BCryptPasswordEncoder 를 이용한 암호화 처리
 2. Kakao 로그인 환결설정 ( Redirect URI, Logout Redirect URI, 동의항목 설정 등)<br>
 3. 카카오 로그인 엑세스 토큰 받기<br>
 4. 토큰을 통한 사용자 정보 조회<br>
-5. 비가입자,가입자 여부 판단후 로그인 진행 <br>![image](https://user-images.githubusercontent.com/100080583/159935474-8f78d936-4511-40b2-a2ac-b737da2dbfab.png)<br>
-카카로 로그인 진행시 카카오 정보로 가입여부를 판단하여 가입되어 있지않으면 회원가입을 자동으로 진행한뒤 로그인을 진행하고 카카오 정보로 회원이 등록되어있으면 로그인을 진행한다.<br>
+5. 비가입자,가입자 여부 판단<br>![image](https://user-images.githubusercontent.com/100080583/159940086-6fba3500-2d96-461a-9d50-385f5bf564d6.png)<br>
+입력받은 카카오정보를 데이터베이스와 비교해서 회원가입하지 않은 사용자는 자동회원가입 처리를해준다.<br>
 6. dd
 
