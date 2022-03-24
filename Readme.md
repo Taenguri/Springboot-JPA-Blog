@@ -49,5 +49,7 @@ __7. 실행 화면__<br><br>
 로그인후<br><br>![image](https://user-images.githubusercontent.com/100080583/159950486-a15dc91c-24cc-46ab-b925-4b188b7cb0de.png)<br><br>
 Database<br><br>![image](https://user-images.githubusercontent.com/100080583/159950951-324fd3e6-3dce-48bb-9221-a854f04210c1.png)<br><br><hr>
 
+## 기술 설명 (Pageable 를 이용한 페이징처리)<br>
 
-
+![image](https://user-images.githubusercontent.com/100080583/159953560-ba93bd3b-33f7-4797-b1ea-653b8e516415.png)<br><br>
+한 페이지당 게시물을 3개씩 보여준다<br><br>
