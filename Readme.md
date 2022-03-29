@@ -8,10 +8,10 @@ __개발 기간__ : 2022 ~ 진행중<br>
 __개발 환경__ : Spring Boot, Java 1.8, HTHML5, CSS3, Jquery, Mysql, JSP, JPA, Bootstrap, STS4<br><br>
 __핵심 기술__<br>
 <ul>
-   <li>RestController 를 이용한 CRUD</li>
    <li>Spring Security 를 이용한 회원가입</li>
    <li>Spring Security 를 이용한 로그인</li>
-   <li>Oauth를 이용한 카카오 로그인</li> 
+   <li>Oauth를 이용한 카카오 로그인</li>
+   <li>RestController 를 이용한 CRUD - Ex)게시글,댓글</li>
    <li>Pageable 를 이용한 페이징처리</li>
 </ul>
 
