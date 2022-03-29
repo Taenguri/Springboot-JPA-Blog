@@ -22,7 +22,7 @@ __핵심 기술__<br>
 <br><br>
 
 <br><br><hr>
-## UI 설계
+## DB 설계
 ![image](https://user-images.githubusercontent.com/100080583/160608524-d1fb0130-150b-4f04-924d-761a8783b1ad.png)
 <br><br>
 
