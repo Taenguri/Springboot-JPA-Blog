@@ -16,8 +16,10 @@ __핵심 기술__<br>
 </ul>
 
 
-
-
+<br><br><hr>
+## UI 설계
+![image](https://user-images.githubusercontent.com/100080583/160607987-924ccbe1-24b0-4362-86d5-881d131c6887.png)
+<br><br><hr>
 
 
 <br><hr>
