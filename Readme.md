@@ -9,7 +9,8 @@ __개발 환경__ : Spring Boot, Java 1.8, HTHML5, CSS3, Jquery, Mysql, JSP, JPA
 __핵심 기술__<br>
 <ul>
    <li>RestController 를 이용한 CRUD</li>
-   <li>Spring Security 를 이용한 암호화</li>
+   <li>Spring Security 를 이용한 회원가입</li>
+   <li>Spring Security 를 이용한 로그인</li>
    <li>Oauth를 이용한 카카오 로그인</li> 
    <li>Pageable 를 이용한 페이징처리</li>
 </ul>
@@ -20,7 +21,7 @@ __핵심 기술__<br>
 CRUD 요청을 RestController 를 이용하여 비동기방식으로 처리<br><hr>
 
 
-## 기술 설명 (Spring Security 를 이용한 암호화 로그인)
+## 기술 설명 (Spring Security 를 이용한 회원가입)
 <br><br>
 ![image](https://user-images.githubusercontent.com/100080583/159927226-22b9e7a8-542b-47ba-8c9b-e30de2e8551e.png)<br><br><br>
 ![image](https://user-images.githubusercontent.com/100080583/159926963-786e7f8c-a942-480d-a3cf-0d5a167fa9f6.png))<br><br><br>
