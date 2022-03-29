@@ -4,7 +4,7 @@
 
 __프로젝트 이름__ : Blog<br>
 __개발 인원__ : 1명<br>
-__개발 기간__ : 2022 ~ 진행중<br>
+__개발 기간__ : 2022.03.11 ~ 진행중<br>
 __개발 환경__ : Spring Boot, Java 1.8, HTHML5, CSS3, Jquery, Mysql, JSP, JPA, Bootstrap, STS4<br><br>
 __핵심 기술__<br>
 <ul>
