@@ -47,7 +47,9 @@ JPA 네이밍 쿼리를 통하여 아이디를 찾음
 ![image](https://user-images.githubusercontent.com/100080583/160605477-b5d27740-9565-45b7-aa22-d4ceb53cfb80.png)<br><br><br>
 JPA 네이밍 쿼리
 <br><hr>
-
+![image](https://user-images.githubusercontent.com/100080583/160605898-c1428715-b373-481e-a433-bfd2c49bd6be.png)<br><br><br>
+아이디와 비밀번호 비교후 로그인 
+<br><hr>
 ## 기술 설명 (Oauth를 이용한 카카오 로그인)
 <br>
 
