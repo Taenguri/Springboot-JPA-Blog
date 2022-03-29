@@ -15,10 +15,19 @@ __핵심 기술__<br>
    <li>Pageable 를 이용한 페이징처리</li>
 </ul>
 
+
+
+
 <br><hr>
 ## 기술 설명 (RestController 를 이용한 CRUD)
 ![image](https://user-images.githubusercontent.com/100080583/159927969-f087532e-ef8f-4229-afbc-e34b3aa18c4b.png) <br><br><br>
 CRUD 요청을 RestController 를 이용하여 비동기방식으로 처리<br><hr>
+
+
+<br><hr>
+## 기술 설명 (Spring Security 인증 화면 처리)
+![image](https://user-images.githubusercontent.com/100080583/160604835-38e42017-2085-44a4-9096-2f20bc7154af.png)<br><br><br>
+권한이 없는 사용자는 로그인창으로 이동하고 로그인 성공시 메인페이지로 이동<br><br><br>
 
 
 ## 기술 설명 (Spring Security 를 이용한 회원가입)
@@ -27,6 +36,16 @@ CRUD 요청을 RestController 를 이용하여 비동기방식으로 처리<br><
 ![image](https://user-images.githubusercontent.com/100080583/159926963-786e7f8c-a942-480d-a3cf-0d5a167fa9f6.png))<br><br><br>
 BCryptPasswordEncoder 를 이용한 암호화 처리
 <br><hr>
+
+
+
+## 기술 설명 (Spring Security 를 이용한 로그인)
+
+![image](https://user-images.githubusercontent.com/100080583/160605230-f468417a-226f-4618-9196-f665aea8e945.png)<br><br><br>
+JPA 네이밍 쿼리를 통하여 아이디를 찾음
+<br><hr>
+
+
 ## 기술 설명 (Oauth를 이용한 카카오 로그인)
 <br>
 
