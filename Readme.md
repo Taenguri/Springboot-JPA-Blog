@@ -21,6 +21,10 @@ __핵심 기술__<br>
 ![image](https://user-images.githubusercontent.com/100080583/160607987-924ccbe1-24b0-4362-86d5-881d131c6887.png)
 <br><br>
 
+<br><br><hr>
+## UI 설계
+![image](https://user-images.githubusercontent.com/100080583/160608524-d1fb0130-150b-4f04-924d-761a8783b1ad.png)
+<br><br>
 
 <br><hr>
 ## 기술 설명 (Spring Security 인증 화면 처리)
