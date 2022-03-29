@@ -27,7 +27,7 @@ CRUD 요청을 RestController 를 이용하여 비동기방식으로 처리<br><
 <br><hr>
 ## 기술 설명 (Spring Security 인증 화면 처리)
 ![image](https://user-images.githubusercontent.com/100080583/160604835-38e42017-2085-44a4-9096-2f20bc7154af.png)<br><br><br>
-권한이 없는 사용자는 로그인창으로 이동하고 로그인 성공시 메인페이지로 이동<br><br><br>
+권한이 없는 사용자는 로그인창으로 이동하고 로그인 성공시 메인페이지로 이동<br><br><hr>
 
 
 ## 기술 설명 (Spring Security 를 이용한 회원가입)
@@ -44,7 +44,9 @@ BCryptPasswordEncoder 를 이용한 암호화 처리
 ![image](https://user-images.githubusercontent.com/100080583/160605230-f468417a-226f-4618-9196-f665aea8e945.png)<br><br><br>
 JPA 네이밍 쿼리를 통하여 아이디를 찾음
 <br><hr>
-
+![image](https://user-images.githubusercontent.com/100080583/160605477-b5d27740-9565-45b7-aa22-d4ceb53cfb80.png)<br><br><br>
+JPA 네이밍 쿼리
+<br><hr>
 
 ## 기술 설명 (Oauth를 이용한 카카오 로그인)
 <br>
